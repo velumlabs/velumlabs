@@ -6,7 +6,7 @@ Velum Labs embodies the ambition to democratize AI, making it accessible, unders
 
 # **Vision** 🌟
 
-Our mission at Tela Labs is to:
+Our mission at Velum Labs is to:
 
 Empower Developers: Provide tools and frameworks that allow developers of all levels to create, test, and deploy AI agents with ease.
 
